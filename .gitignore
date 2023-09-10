@@ -1,0 +1,6 @@
+node_modules
+.expo
+.vscode
+.dist
+secrets.ts
+eas.json
